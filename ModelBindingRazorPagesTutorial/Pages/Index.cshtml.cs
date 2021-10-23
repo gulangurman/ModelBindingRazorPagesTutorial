@@ -6,6 +6,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+/***
+ * Model Binding in Razor Pages
+ * 
+ * Repo: https://github.com/gulangurman/ModelBindingRazorPagesTutorial.git
+ * Author: Gülan Gürman
+ * Date: 23.10.2021
+ */
+
 namespace ModelBindingRazorPagesTutorial.Pages
 {
     // No need to bind each property one by one

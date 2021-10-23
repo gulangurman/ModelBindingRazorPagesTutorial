@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Gülan Gürman</Authors>
+    <RepositoryUrl>https://github.com/gulangurman/ModelBindingRazorPagesTutorial.git</RepositoryUrl>
+    <PackageTags>Razor Pages Model Binding</PackageTags>
+    <PackageProjectUrl>https://github.com/gulangurman/ModelBindingRazorPagesTutorial</PackageProjectUrl>
+    <Copyright>Gülan Gürman</Copyright>
+    <Description>ASP.NET Core Razor Pages ile Model Binding nasıl yapılır?
+ASP.NET Core Razor Pages ile çalışırken kullandığınız modellerin ilgili sayfalardaki form alanları ile otomatik olarak eşleşmesini sağlayabilirsiniz. Razor Page'lerle çalışmak özellikle Model Binding'e hakim olduğunuzda çok zevkli bir hale gelecektir. Bu videoda yazılan kodları aşağıdaki github repo'dan klonlayıp sisteminizde çalıştırabilirsiniz.</Description>
   </PropertyGroup>
 
 </Project>
