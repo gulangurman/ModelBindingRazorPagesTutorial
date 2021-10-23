@@ -8,3 +8,11 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+<form method="post">
+    <label>Adınız</label>
+    <input type="text" name="name" value="" />
+    <label>E-posta</label>
+    <input type="email" name="email" value="" />
+    <button type="submit">Gönder</button>
+</form>
+<p>Adınız: @TempData["result"]</p>
