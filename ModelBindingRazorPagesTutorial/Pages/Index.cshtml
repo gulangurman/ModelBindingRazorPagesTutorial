@@ -13,6 +13,13 @@
     <input type="text" name="name" value="" />
     <label>E-posta</label>
     <input type="email" name="email" value="" />
+    <label>Ülke</label>
+    <input type="text" name="Address.country" value="" />
+    <label>Şehir</label>
+    <input type="text" name="Address.city" value="" />
+    <label>Adres</label>
+    <input type="text" name="Address.address" value="" />
     <button type="submit">Gönder</button>
 </form>
 <p>Adınız: @TempData["result"]</p>
+<p>Adres: @TempData["address"]</p>
